@@ -1,90 +1,94 @@
 <h1 align="center">Hi 👋, I'm Pramit Savaliya</h1>
-<h3 align="center">Full Stack Developer | MERN Enthusiast | AI Project Builder</h3>
+<h3 align="center">Full Stack Developer | MERN | AI Builder 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="YOUR_USERNAME" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat" />
 </p>
 
 ---
 
-## 🚀 Welcome to my GitHub Profile!
+## 🚀 Welcome to my GitHub profile!
 
-- 💻 Passionate Full Stack Web Developer
-- ⚛️ Skilled in MERN Stack, JavaScript, Python, PHP, and C++
-- 🤖 Building real-world projects with AI and modern web technologies
-- 🌱 Learning new technologies every day
-- 🎯 Focused on creating impactful and practical applications
+- 🌟 Passionate Full Stack Web Developer  
+- 💻 Skilled in C++, Python, JavaScript  
+- 🤖 Building AI-powered platforms like **PrepPilot AI**  
+- 🌱 Learning new technologies every day  
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔥 I love building modern and useful web applications
-- 🧠 Strong interest in Full Stack Development and AI-based projects
-- 🚀 Currently working on **PrepPilot AI**
-- 💡 I enjoy solving real-world problems with code
-- 🎨 I like clean UI, modern design, and powerful user experiences
+- 🧠 My DNA became **Data**  
+- 💡 Fueled by **knowledge**  
+- 🎯 Driven by **taking risks**  
+- 💻 Engineered by **determination**  
+- ✨ Powered by **creativity**  
 
 ---
 
 ## 🛠️ Languages and Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,php,mysql,cpp,java,git,github,vscode" />
-</p>
-
----
-
-## 🌟 Featured Projects
-
-### 🎯 PrepPilot AI
-AI-powered interview preparation platform with mock interviews, AI feedback, role-based sessions, and Free vs Pro features.
-
-### 🕵️ InvisiCam
-Android-based hidden camera detector project using mobile sensors and smart detection concepts.
-
-### 🗳️ Online Voting System
-A secure PHP-based voting platform with authentication and result handling.
-
-### 🎵 Pritify
-Spotify-inspired music web app with login/signup and modern UI.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![ReactJS](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="github stats" />
-</p>
+### 🔥 General Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=false)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="github streak" />
-</p>
+### 🚀 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&langs_count=10)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="top languages" />
-</p>
+### 📈 Contribution Graph
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" alt="activity graph" />
-</p>
+### ⚡ Streak Stats (Extra Pro Look)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
+
+---
+
+## 🚀 Featured Project
+
+### 🎯 PrepPilot AI
+AI-powered interview preparation platform  
+- Mock Interviews (Free & Pro)  
+- AI Feedback & Scoring  
+- Resume-based + Company-specific questions  
 
 ---
 
 ## 📫 How to Reach Me
 
-- ✉️ Email: your-email@gmail.com
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/YOUR_LINK)
-- 💻 GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- ✉️ Email: pramit.savaliya2786@gmail.com 
+- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK  
+- 💻 GitHub: https://github.com/P2786 
 
 ---
 
-## ✨ Fun Line
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-> "Code. Build. Improve. Repeat."
+---
+
+## 🖥️ Coding Vibe (Dark Green Hacker Style 😎)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
+</p>
 
 ---
 
 <p align="center">
-  Thanks for visiting my profile ❤️
+  ⚡ Code. Build. Dominate. ⚡
 </p>
