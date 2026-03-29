@@ -47,8 +47,8 @@
 
 ## 📊 GitHub Stats
 
-### 🔥 General Stats
-![Stats](https://github-readme-stats-fast.vercel.app/api?username=P2786&show_icons=true&theme=tokyonight&hide_border=true)
+### 📊 Profile Overview
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=P2786&theme=tokyonight)
 
 ### 🚀 Top Languages
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=P2786&layout=compact&theme=tokyonight&hide_border=true)
