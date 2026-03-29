@@ -1,18 +1,19 @@
 <h1 align="center">Hi 👋, I'm Pramit Savaliya</h1>
-<h3 align="center">Full Stack Developer | MERN | AI Builder 🚀</h3>
+<h3 align="center">Full Stack Developer | MERN Stack | AI Builder 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=P2786&color=blue&style=flat" />
 </p>
 
 ---
 
-## 🚀 Welcome to my GitHub profile!
+## 🚀 Welcome to my GitHub Profile!
 
 - 🌟 Passionate Full Stack Web Developer  
 - 💻 Skilled in C++, Python, JavaScript  
 - 🤖 Building AI-powered platforms like **PrepPilot AI**  
 - 🌱 Learning new technologies every day  
+- 🎯 Focused on building real-world impactful projects  
 
 ---
 
@@ -42,50 +43,55 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 My Projects
 
-### 🔥 General Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=false)
-
-### 🚀 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&langs_count=10)
-
-### 📈 Contribution Graph
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
-
-### ⚡ Streak Stats (Extra Pro Look)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
+- 🔥 [PrepPilot AI](https://github.com/P2786/PrepPilot-AI)
+- 💳 [Restaurant Billing System](https://github.com/P2786/Restaurant-Billing-Syatem)
+- 🍽️ [Savaliya Restaurant](https://github.com/P2786/Savaliya-Resturant)
+- 🌐 [Pramit Portfolio](https://github.com/P2786/Pramit-Portfolio)
+- 💬 [ChatMitra](https://github.com/P2786/ChatMitra)
 
 ---
 
-## 🚀 Featured Project
+## 📊 GitHub Stats
 
-### 🎯 PrepPilot AI
-AI-powered interview preparation platform  
-- Mock Interviews (Free & Pro)  
-- AI Feedback & Scoring  
-- Resume-based + Company-specific questions  
+### 🔥 General Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=P2786&show_icons=true&theme=radical)
+
+### 🚀 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=P2786&layout=compact&theme=radical)
+
+### 📈 Contribution Graph
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=P2786&theme=tokyo-night)
+
+### ⚡ Streak Stats
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=P2786&theme=radical)
+
+---
+
+## 🖥️ Coding Mode Activated (Hacker Vibe 😎)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
+</p>
+
+---
+
+## 💬 Developer Mindset
+
+> “First, solve the problem. Then, write the code.”
+
+> “Code is like humor. When you have to explain it, it’s bad.”
+
+> “Don’t just learn to code. Build things that people actually use.”
 
 ---
 
 ## 📫 How to Reach Me
 
-- ✉️ Email: pramit.savaliya2786@gmail.com 
+- ✉️ Email: your-email@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK  
-- 💻 GitHub: https://github.com/P2786 
-
----
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-## 🖥️ Coding Vibe (Dark Green Hacker Style 😎)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
-</p>
+- 💻 GitHub: https://github.com/P2786  
 
 ---
 
