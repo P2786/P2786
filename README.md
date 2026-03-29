@@ -48,10 +48,10 @@
 ## 📊 GitHub Stats
 
 ### 🔥 General Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=P2786&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=P2786&show_icons=true&theme=tokyonight)
 
 ### 🚀 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=P2786&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=P2786&layout=compact&theme=tokyonight)
 
 ### 📈 Contribution Graph
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=P2786&theme=tokyo-night)
