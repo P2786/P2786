@@ -56,9 +56,6 @@
 ### 📈 Contribution Graph
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=P2786&theme=tokyo-night)
 
-### ⚡ Streak Stats
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=P2786&theme=radical)
-
 ---
 
 ## ✍️ Random Dev Quote 
