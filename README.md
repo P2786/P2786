@@ -29,20 +29,9 @@
 
 ## 🛠️ Languages and Tools
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,c,cpp,java,php,mysql,git,github,vscode,androidstudio,phpmyadmin" />
+</p>
 
 ---
 
@@ -72,7 +61,7 @@
 
 ---
 
-## 🖥️ Coding Mode Activated (Hacker Vibe 😎)
+## ✍️ Random Dev Quote 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2N1MXd5bmZyYWZoejVuaGI3eGJhbGd3enhhM24yMjh0czZ1ZG1mZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="Banner" width="1000" height="500">
@@ -93,8 +82,8 @@
 
 ## 📫 How to Reach Me
 
-- ✉️ Email: your-email@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK  
+- ✉️ Email: pramit.savaliya2786@gmail.comm  
+- 💼 LinkedIn: https://linkedin.com/in/pramit-savaliya  
 - 💻 GitHub: https://github.com/P2786  
 
 ---
