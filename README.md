@@ -82,9 +82,10 @@
 
 ## 🖥️ Coding Mode Activated (Hacker Vibe 😎)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
-</p>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2N1MXd5bmZyYWZoejVuaGI3eGJhbGd3enhhM24yMjh0czZ1ZG1mZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="Banner" width="1000" height="500">
+[![](https://visitcount.itsvg.in/api?id=siddhantsaxena45&icon=0&color=8)](https://visitcount.itsvg.in)
+
 
 ---
 
