@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pramit Savaliya</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | AI Builder 🚀</h3>
+<h3 align="center">Full Stack Web Developer | Android Developer | AI Builder 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=P2786&color=blue&style=flat" />
@@ -48,10 +48,10 @@
 ## 📊 GitHub Stats
 
 ### 🔥 General Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=P2786&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats-fast.vercel.app/api?username=P2786&show_icons=true&theme=tokyonight&hide_border=true)
 
 ### 🚀 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=P2786&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=P2786&layout=compact&theme=tokyonight&hide_border=true)
 
 ### 📈 Contribution Graph
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=P2786&theme=tokyo-night)
