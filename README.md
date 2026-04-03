@@ -45,7 +45,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ### 📊 Profile Overview
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=P2786&theme=tokyonight)
